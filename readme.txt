@@ -1,2 +1,2 @@
 Hello git!
-Git is very good!
+Git is very not good!
